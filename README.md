@@ -1,7 +1,7 @@
 <h1>Teste Técnico de Conhecimentos em SQL</h1>
 
 <h3>Bem-vindo ao teste técnico de conhecimentos em SQL!</h3> 
-A seguir, você encontrará cinco desafios onde será necessário escrever consultas SQL. Utilize apenas as tabelas e dados presentes no arquivo schema.sql fornecido.
+<p>A seguir, você encontrará cinco desafios onde será necessário escrever consultas SQL. Utilize apenas as tabelas e dados presentes no arquivo schema.sql fornecido.
 
 📌 Instruções
 Desafios: Resolva cada um dos desafios propostos escrevendo as queries SQL apropriadas.
